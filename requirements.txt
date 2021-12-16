@@ -1,8 +1,5 @@
-IPython
-ipywidgets
 numpy
 pandas
 matplotlib
 uk_covid19
-datetime
 voila
