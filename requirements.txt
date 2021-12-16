@@ -1,4 +1,4 @@
-Ipython
+IPython
 ipywidgets
 numpy
 pandas
