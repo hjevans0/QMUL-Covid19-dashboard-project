@@ -1,4 +1,4 @@
-Ipython.display
+Ipython
 ipywidgets
 numpy
 pandas
