@@ -1,5 +1,5 @@
-numpy
-pandas
-matplotlib
-uk_covid19
-voila
+numpy===1.20.3
+pandas==1.3.3
+matplotlib==3.4.3
+uk-covid19==1.2.2
+voila==0.2.16
